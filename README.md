@@ -59,3 +59,7 @@ The dataset contains sales transactions for the Diwali season, including custome
 ## **Conclusion**
 
 The Diwali Sales Analysis project highlights critical consumer insights that businesses can use to improve sales performance during the festival season. By targeting the right demographic segments, adjusting inventory, and implementing focused marketing campaigns, businesses can maximize their revenue during high-demand periods like Diwali.
+
+## Diwali Sales Exploration Report
+
+[Diwali Sales Exploration PDF](https://drive.google.com/file/d/1EIe3p_9BI4BQdR4h87rv0InoIyVHaiwI/view?usp=sharing)
