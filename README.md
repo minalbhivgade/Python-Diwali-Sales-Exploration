@@ -62,4 +62,5 @@ The Diwali Sales Analysis project highlights critical consumer insights that bus
 
 ## Diwali Sales Exploration Report
 
-[Diwali Sales Exploration PDF](https://drive.google.com/file/d/1EIe3p_9BI4BQdR4h87rv0InoIyVHaiwI/view?usp=sharing)
+[Diwali Sales Exploration PDF](https://drive.google.com/file/d/12F9yPvPG2JDHLe0ri74KlmjeNOtvob0j/view?usp=sharing)
+
